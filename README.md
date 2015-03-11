@@ -1,5 +1,6 @@
 INCAR
 =====
+INCAR各个选项的汇总，可以作为编写INACR文件的参考。
 
 A generic INCAR file for the density functional theory package VASP. 
 
